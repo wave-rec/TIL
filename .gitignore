@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 썸네일
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 기타
+*.log
+node_modules/
+.env
